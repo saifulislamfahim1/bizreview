@@ -1,0 +1,593 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+/* this is hero start */
+#herotext{
+  width: 100%;
+}
+#hero #hero1{
+  width: 33.3333333%;
+}
+#hero #hero2{
+  width: 33.3333333%;
+}
+#hero #hero3{
+  width: 33.3333333%;
+}
+/* this is hero end */
+/* this is Browse start */
+#browse #browse1{
+  width: 33.3333333%;
+}
+#browse #browse2{
+  width: 33.3333333%;
+}
+#browse #browse3{
+  width: 33.3333333%;
+}
+/* this is Browse end */
+/* this is weekly start */
+#trending #trending1{
+  width: 25%;
+}
+#trending #trending2{
+  width: 25%;
+}
+#trending #trending3{
+  width: 25%;
+}
+#trending #trending4{
+  width: 25%;
+}
+/* this is weekly end */
+/* this is should start */
+#icon #icon1{
+  width: 25%;
+}
+#icon #icon2{
+  width: 25%;
+}
+#icon #icon3{
+  width: 25%;
+}
+#icon #icon4{
+  width: 25%;
+}
+/* this is should end */
+/* this is Download start */
+#download #download1{
+  width: 50%;
+}
+#download #download2{
+  width: 50%;
+}
+/* this is Download end */
+/* this is Connect start */
+#Million #Million1{
+  width: 25%;
+}
+#Million #Million2{
+  width: 25%;
+}
+#Million #Million3{
+  width: 25%;
+}
+#Million #Million4{
+  width: 25%;
+}
+/* this is Connect end */
+/* this is ABOUT start */
+#about #about1{
+  width: 40%;
+}
+#about #about2{
+  width: 20%;
+}
+#about #about3{
+  width: 20%;
+}
+#about #about4{
+  width: 20%;
+}
+/* this is ABOUT end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+/* this is hero start */
+#herotext{
+  width: 100%;
+}
+#hero #hero1{
+  width: 33.3333333%;
+}
+#hero #hero2{
+  width: 33.3333333%;
+}
+#hero #hero3{
+  width: 33.3333333%;
+}
+/* this is hero end */
+/* this is Browse start */
+#browse #browse1{
+  width: 33.3333333%;
+}
+#browse #browse2{
+  width: 33.3333333%;
+}
+#browse #browse3{
+  width: 33.3333333%;
+}
+/* this is Browse end */
+/* this is weekly start */
+#trending #trending1{
+  width: 25%;
+}
+#trending #trending2{
+  width: 25%;
+}
+#trending #trending3{
+  width: 25%;
+}
+#trending #trending4{
+  width: 25%;
+}
+/* this is weekly end */
+/* this is should start */
+#icon #icon1{
+  width: 25%;
+}
+#icon #icon2{
+  width: 25%;
+}
+#icon #icon3{
+  width: 25%;
+}
+#icon #icon4{
+  width: 25%;
+}
+/* this is should end */
+/* this is Download start */
+#download #download1{
+  width: 50%;
+}
+#download #download2{
+  width: 50%;
+}
+/* this is Download end */
+/* this is Connect start */
+#Million #Million1{
+  width: 25%;
+}
+#Million #Million2{
+  width: 25%;
+}
+#Million #Million3{
+  width: 25%;
+}
+#Million #Million4{
+  width: 25%;
+}
+/* this is Connect end */
+/* this is ABOUT start */
+#about #about1{
+  width: 40%;
+}
+#about #about2{
+  width: 20%;
+}
+#about #about3{
+  width: 20%;
+}
+#about #about4{
+  width: 20%;
+}
+/* this is ABOUT end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+/* this is hero start */
+#herotext{
+  width: 100%;
+}
+#hero #hero1{
+  width: 33.3333333%;
+}
+#hero #hero2{
+  width: 33.3333333%;
+}
+#hero #hero3{
+  width: 33.3333333%;
+}
+/* this is hero end */
+/* this is Browse start */
+#browse #browse1{
+  width: 33.3333333%;
+}
+#browse #browse2{
+  width: 33.3333333%;
+}
+#browse #browse3{
+  width: 33.3333333%;
+}
+/* this is Browse end */
+/* this is weekly start */
+#trending #trending1{
+  width: 25%;
+}
+#trending #trending2{
+  width: 25%;
+}
+#trending #trending3{
+  width: 25%;
+}
+#trending #trending4{
+  width: 25%;
+}
+/* this is weekly end */
+/* this is should start */
+#icon #icon1{
+  width: 25%;
+}
+#icon #icon2{
+  width: 25%;
+}
+#icon #icon3{
+  width: 25%;
+}
+#icon #icon4{
+  width: 25%;
+}
+/* this is should end */
+/* this is Download start */
+#download #download1{
+  width: 50%;
+}
+#download #download2{
+  width: 50%;
+}
+/* this is Download end */
+/* this is Connect start */
+#Million #Million1{
+  width: 25%;
+}
+#Million #Million2{
+  width: 25%;
+}
+#Million #Million3{
+  width: 25%;
+}
+#Million #Million4{
+  width: 25%;
+}
+/* this is Connect end */
+/* this is ABOUT start */
+#about #about1{
+  width: 40%;
+}
+#about #about2{
+  width: 20%;
+}
+#about #about3{
+  width: 20%;
+}
+#about #about4{
+  width: 20%;
+}
+/* this is ABOUT end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+/* this is hero start */
+#herotext{
+  width: 100%;
+}
+#hero #hero1{
+  width: 33.3333333%;
+}
+#hero #hero2{
+  width: 33.3333333%;
+}
+#hero #hero3{
+  width: 33.3333333%;
+}
+/* this is hero end */
+/* this is Browse start */
+#browse #browse1{
+  width: 33.3333333%;
+}
+#browse #browse2{
+  width: 33.3333333%;
+}
+#browse #browse3{
+  width: 33.3333333%;
+}
+/* this is Browse end */
+/* this is weekly start */
+#trending #trending1{
+  width: 25%;
+}
+#trending #trending2{
+  width: 25%;
+}
+#trending #trending3{
+  width: 25%;
+}
+#trending #trending4{
+  width: 25%;
+}
+/* this is weekly end */
+/* this is should start */
+#icon #icon1{
+  width: 25%;
+}
+#icon #icon2{
+  width: 25%;
+}
+#icon #icon3{
+  width: 25%;
+}
+#icon #icon4{
+  width: 25%;
+}
+/* this is should end */
+/* this is Download start */
+#download #download1{
+  width: 50%;
+}
+#download #download2{
+  width: 50%;
+}
+/* this is Download end */
+/* this is Connect start */
+#Million #Million1{
+  width: 25%;
+}
+#Million #Million2{
+  width: 25%;
+}
+#Million #Million3{
+  width: 25%;
+}
+#Million #Million4{
+  width: 25%;
+}
+/* this is Connect end */
+/* this is ABOUT start */
+#about #about1{
+  width: 40%;
+}
+#about #about2{
+  width: 20%;
+}
+#about #about3{
+  width: 20%;
+}
+#about #about4{
+  width: 20%;
+}
+/* this is ABOUT end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+/* this is hero start */
+#herotext{
+  width: 100%;
+}
+#hero #hero1{
+  width: 100%;
+}
+#hero #hero2{
+  width: 100%;
+}
+#hero #hero3{
+  width: 100%;
+}
+/* this is hero end */
+/* this is Browse start */
+#browse #browse1{
+  width: 100%;
+}
+#browse #browse2{
+  width: 100%;
+}
+#browse #browse3{
+  width: 100%;
+}
+/* this is Browse end */
+/* this is weekly start */
+#trending #trending1{
+  width: 100%;
+}
+#trending #trending2{
+  width: 100%;
+}
+#trending #trending3{
+  width: 100%;
+}
+#trending #trending4{
+  width: 100%;
+}
+/* this is weekly end */
+/* this is should start */
+#icon #icon1{
+  width: 100%;
+}
+#icon #icon2{
+  width: 100%;
+}
+#icon #icon3{
+  width: 100%;
+}
+#icon #icon4{
+  width: 100%;
+}
+/* this is should end */
+/* this is Download start */
+#download #download1{
+  width: 100%;
+}
+#download #download2{
+  width: 100%;
+}
+/* this is Download end */
+/* this is Connect start */
+#Million #Million1{
+  width: 100%;
+}
+#Million #Million2{
+  width: 100%;
+}
+#Million #Million3{
+  width: 100%;
+}
+#Million #Million4{
+  width: 100%;
+}
+/* this is Connect end */
+/* this is ABOUT start */
+#about #about1{
+  width: 100%;
+}
+#about #about2{
+  width: 100%;
+}
+#about #about3{
+  width: 100%;
+}
+#about #about4{
+  width: 100%;
+}
+/* this is ABOUT end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+/* this is hero start */
+#herotext{
+  width: 100%;
+}
+#hero #hero1{
+  width: 100%;
+}
+#hero #hero2{
+  width: 100%;
+}
+#hero #hero3{
+  width: 100%;
+}
+/* this is hero end */
+/* this is Browse start */
+#browse #browse1{
+  width: 100%;
+}
+#browse #browse2{
+  width: 100%;
+}
+#browse #browse3{
+  width: 100%;
+}
+/* this is Browse end */
+/* this is weekly start */
+#trending #trending1{
+  width: 100%;
+}
+#trending #trending2{
+  width: 100%;
+}
+#trending #trending3{
+  width: 100%;
+}
+#trending #trending4{
+  width: 100%;
+}
+/* this is weekly end */
+/* this is should start */
+#icon #icon1{
+  width: 100%;
+}
+#icon #icon2{
+  width: 100%;
+}
+#icon #icon3{
+  width: 100%;
+}
+#icon #icon4{
+  width: 100%;
+}
+/* this is should end */
+/* this is Download start */
+#download #download1{
+  width: 100%;
+}
+#download #download2{
+  width: 100%;
+}
+/* this is Download end */
+/* this is Connect start */
+#Million #Million1{
+  width: 100%;
+}
+#Million #Million2{
+  width: 100%;
+}
+#Million #Million3{
+  width: 100%;
+}
+#Million #Million4{
+  width: 100%;
+}
+/* this is Connect end */
+/* this is ABOUT start */
+#about #about1{
+  width: 100%;
+}
+#about #about2{
+  width: 100%;
+}
+#about #about3{
+  width: 100%;
+}
+#about #about4{
+  width: 100%;
+}
+/* this is ABOUT end */
+    
+  }
